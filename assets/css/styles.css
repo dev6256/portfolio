@@ -385,6 +385,7 @@ img {
   color: #fff;
   padding: 1rem;
   border-radius: 0.5rem;
+  border-color: var(--first-color);
   font-weight: var(--font-medium);
 }
 
