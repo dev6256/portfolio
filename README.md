@@ -11,7 +11,7 @@ Welcome to my portfolio website repository! This repository contains the source 
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/imask-dev/portfolio-website.git`
+1. Clone this repository: `git clone https://github.com/imask-dev/portfolio.git`
 2. Customize the content and styling to match your personal brand and preferences.
 3. Deploy your website using your preferred hosting provider or platforms like GitHub Pages or Netlify.
 
